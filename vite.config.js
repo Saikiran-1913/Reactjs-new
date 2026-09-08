@@ -4,7 +4,7 @@ import { defineConfig } from 'vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/ReactJS/',
+  base: '/Reactjs-new/',
   plugins: [
     react(),
     babel({ presets: [reactCompilerPreset()] })
